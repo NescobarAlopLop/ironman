@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\MjpegProcessor.cs" />
     <Compile Include="Assets\Scripts\MjpegTexture.cs" />
     <Compile Include="Assets\Scripts\SetCorrectCameraHeight.cs" />
+    <Compile Include="Assets\Scripts\tello_communicator.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>C:/Users/Admin/Documents/thirsday/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
